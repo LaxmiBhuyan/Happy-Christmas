@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgb(167, 148, 148), rgb(111, 69, 126), rgb(67, 81, 143));
+  }
+.carousel-item img{
+    height: 60vh;
+    width: 60%;
+    margin: 10%;
+    margin-left: 20%;
+    border-radius: 5px;
+    box-shadow:  0.5rem 0.5rem 0.5rem rgba(255, 322, 240);
+}
+h5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+    color: white;
+}
+.carousel-item p{
+    color: white;
+}
